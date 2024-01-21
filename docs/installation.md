@@ -1,5 +1,5 @@
 ---
-id: installation
+id: 14888966
 title: Installation
 sidebar_label: Installation
 ---
